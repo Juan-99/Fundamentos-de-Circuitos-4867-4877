@@ -10,3 +10,7 @@ Kirchhoff de Corrientes.
 6. CONCLUSIONES
 7. BILBIOGRAFÍA
 8. ANEXOS
+
+| TITULO1| TITULO2|
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
