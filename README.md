@@ -4,6 +4,8 @@
 
 **2. MARCO TEÓRICO**
 
+**Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+
 |**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
 |:-----------:|:-----------:|:--------------:|
 |VR1 (V)|2.5|2.5|
