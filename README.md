@@ -13,6 +13,8 @@ Kirchhoff de Corrientes.
 
 **2. MARCO TEÓRICO**
 
+![marco](https://scontent.fuio10-1.fna.fbcdn.net/v/t1.0-9/131634790_3625991074150408_5210374562054114609_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_eui2=AeEi8HtjhMnY4fBIqhV1L53I74jZqisjoBHviNmqKyOgEccfL6lwJOa77Tss_PdkggzzHUK3keWkc4ryqdAFZTen&_nc_ohc=Bm4TfY9PcRoAX9wPBrm&_nc_ht=scontent.fuio10-1.fna&oh=a5b8615c7ade0dd1de9c9fd5ca81294e&oe=60036196)
+
 **Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
 
 |**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
