@@ -58,4 +58,6 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el voltaje med
 
 **8. BIBLIOGRAFÍA**
 
+McAllister, W. (n.d.). Las leyes de Kirchhoff (artículo) | Khan Academy. Retrieved December 20, 2020, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
 **9. ANEXOS**
