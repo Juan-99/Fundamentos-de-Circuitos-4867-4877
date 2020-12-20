@@ -2,6 +2,15 @@
 
 **1. OBJETIVOS**
 
+- Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
+Kirchhoff de Corrientes.
+
+- Tener un amplio conocimiento de las Leyes de Ohm y de Kirchoff mediante elementos de medición como lo es el multímetro para la toma de  medidas  de  las  resistencias y corrientes en el circuito eléctrico, utilizando una placa protoboard .
+
+- Familiarizarse con los objetos básicos de un laboratorio de circuitos y con el simulador establecido.
+
+- Establecer las características de las resistencias y sus limitaciones conociendo el código de colores de las mismas.
+
 **2. MARCO TEÓRICO**
 
 **Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
