@@ -40,3 +40,13 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el voltaje med
 |1|Resistor de 1.8 kΩ|
 |1|Resistor de 3.9 kΩ|
 |1|Protoboard|
+
+**5. EXPLICACIÓN**
+
+**6. APORTACIONES**
+
+**7. CONCLUSIONES**
+
+**8. BIBLIOGRAFÍA**
+
+**9. ANEXOS**
