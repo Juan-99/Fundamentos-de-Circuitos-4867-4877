@@ -63,5 +63,6 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el amperaje me
 **8. BIBLIOGRAFÍA**
 
 McAllister, W. (n.d.). Las leyes de Kirchhoff (artículo) | Khan Academy. Retrieved December 20, 2020, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+Torres, J. (n.d.). Leyes de Kirchhoff: Primera y Segunda Ley (Con Ejemplos) - Lifeder. Retrieved December 20, 2020, from https://www.lifeder.com/leyes-kirchhoff/
 
 **9. ANEXOS**
