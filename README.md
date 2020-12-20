@@ -4,6 +4,12 @@
 
 **2. MARCO TEÓRICO**
 
+|**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
+|:-----------:|:-----------:|:--------------:|
+|VR1 (V)|2.5|2.5|
+|IR1 (mA)|2.05|2.05|
+|VR2 (V)|4.23|4.25|
+
 **3. DIAGRAMAS**
 
 Circuito resistivo mixto
