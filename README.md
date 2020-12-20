@@ -38,6 +38,10 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el voltaje med
 
 ![](https://github.com/Juan-99/Fundamentos-de-Circuitos-4867-4877/blob/main/img/Circuito%20armado%20con%20tinkercad.jpg)
 
+Circuito construido con la ayuda del simulador tinkercad, muestra el amperaje medido en cada una de las resistencias.
+
+
+
 **4. LISTA DE COMPONENTES**
 
 |**CANTIDAD**|**MATERIAL O EQUIPO**|
