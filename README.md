@@ -5,13 +5,7 @@
 Kirchhoff de Corrientes.
 2. MARCO TEÓRICO
 3. DIAGRAMAS
-4. LISTA DE COMPONENTES
-5. APORTACIONES
-6. CONCLUSIONES
-7. BILBIOGRAFÍA
-8. ANEXOS
 
-| TITULO1| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+![](https://github.com/Juan-99/Fundamentos-de-Circuitos-4867-4877/blob/main/img/Diagrama%20del%20circuito.jpg)
+
 
