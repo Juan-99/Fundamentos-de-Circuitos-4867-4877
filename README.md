@@ -68,4 +68,6 @@ McAllister, W. (n.d.). Las leyes de Kirchhoff (artículo) | Khan Academy. Retrie
 
 Torres, J. (n.d.). Leyes de Kirchhoff: Primera y Segunda Ley (Con Ejemplos) - Lifeder. Retrieved December 20, 2020, from https://www.lifeder.com/leyes-kirchhoff/
 
+Tinkercad | De la mente al diseño en minutos. (n.d.). Retrieved December 20, 2020, from https://www.tinkercad.com/dashboard?type=circuits&collection=designs
+
 **9. ANEXOS**
