@@ -7,7 +7,7 @@ Objetico General
 - Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
 
-Objetivo Específico
+Objetivos Específicos
 
 - Tener un amplio conocimiento de las Leyes de Ohm y de Kirchoff mediante elementos de medición como lo es el multímetro para la toma de  medidas  de  las  resistencias y corrientes en el circuito eléctrico, utilizando una placa protoboard .
 
@@ -63,6 +63,9 @@ Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada re
 |IR4 (mA)|0,965|0,965|
 |VR5 (V)|3,69|3.70|
 |IR5 (mA)|2.05|2.05|
+
+**Tabla II.** Verificación de la Ley de Voltajes de Kirchhoff
+
 
 **6. CONCLUSIONES**
 
