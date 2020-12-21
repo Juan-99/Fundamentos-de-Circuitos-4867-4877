@@ -64,11 +64,13 @@ Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada re
 |VR5 (V)|3,69|3.70|
 |IR5 (mA)|2.05|2.05|
 
-**6. APORTACIONES**
+**6. CONCLUSIONES**
 
-**7. CONCLUSIONES**
+- Mediante el análisis experimental y algebraico se pudo comprobar la primera y segunda ley de Kirchhoff donde se obtuvo como resultado que la suma de corrientes entrantes es igual a la suma de las corrientes salientes y la suma de voltajes es igual a cero.
 
-**8. BIBLIOGRAFÍA**
+- El manejo y el conocimiento de estas leyes son de gran importancia ya que gracias a estas,  circuitos complejos de analizar son fácilmente de resolver  mediantes la reducción de los mismos a circuitos más simples
+
+**7. BIBLIOGRAFÍA**
 
 McAllister, W. (n.d.). Las leyes de Kirchhoff (artículo) | Khan Academy. Retrieved December 20, 2020, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
@@ -76,4 +78,4 @@ Torres, J. (n.d.). Leyes de Kirchhoff: Primera y Segunda Ley (Con Ejemplos) - Li
 
 Tinkercad | De la mente al diseño en minutos. (n.d.). Retrieved December 20, 2020, from https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 
-**9. ANEXOS**
+**8. ANEXOS**
