@@ -19,21 +19,6 @@ Objetivo Específico
 
 ![marco](https://scontent.fuio10-1.fna.fbcdn.net/v/t1.0-9/131634790_3625991074150408_5210374562054114609_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_eui2=AeEi8HtjhMnY4fBIqhV1L53I74jZqisjoBHviNmqKyOgEccfL6lwJOa77Tss_PdkggzzHUK3keWkc4ryqdAFZTen&_nc_ohc=Bm4TfY9PcRoAX9wPBrm&_nc_ht=scontent.fuio10-1.fna&oh=a5b8615c7ade0dd1de9c9fd5ca81294e&oe=60036196)
 
-**Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
-
-|**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
-|:-----------:|:-----------:|:--------------:|
-|VR1 (V)|2.5|2.5|
-|IR1 (mA)|2.05|2.05|
-|VR2 (V)|4.23|4.25|
-|IR2 (mA)|0.965|0.965|
-|VR3 (V)|2.123|2.12|
-|IR3 (mA)|0,965|0.965|
-|VR4 (V)|2.123|2.12|
-|IR4 (mA)|0,965|0,965|
-|VR5 (V)|3,69|3.70|
-|IR5 (mA)|2.05|2.05|
-
 **3. DIAGRAMAS**
 
 Circuito resistivo mixto
@@ -61,6 +46,23 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el amperaje me
 |1|Protoboard|
 
 **5. EXPLICACIÓN**
+
+Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada resistencia y hacer analisis algebraico de los mismos con lo cual se construyo la tabla que se presenta a continuación: 
+
+**Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+
+|**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
+|:-----------:|:-----------:|:--------------:|
+|VR1 (V)|2.5|2.5|
+|IR1 (mA)|2.05|2.05|
+|VR2 (V)|4.23|4.25|
+|IR2 (mA)|0.965|0.965|
+|VR3 (V)|2.123|2.12|
+|IR3 (mA)|0,965|0.965|
+|VR4 (V)|2.123|2.12|
+|IR4 (mA)|0,965|0,965|
+|VR5 (V)|3,69|3.70|
+|IR5 (mA)|2.05|2.05|
 
 **6. APORTACIONES**
 
