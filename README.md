@@ -56,7 +56,7 @@ Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada re
 |VR1 (V)|2.5|2.5|
 |IR1 (mA)|2.05|2.05|
 |VR2 (V)|4.23|4.25|
-|IR2 (mA)|0.965|0.965|
+|IR2 (mA)|1.085|1.09|
 |VR3 (V)|2.123|2.12|
 |IR3 (mA)|0,965|0.965|
 |VR4 (V)|2.123|2.12|
