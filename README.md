@@ -61,6 +61,12 @@ Despúes se procedio analizar las elevacione y caidas de voltaje en cada trayect
 
 ![](https://github.com/Juan-99/Fundamentos-de-Circuitos-4867-4877/blob/main/img/tabla%202.png)
 
+Por ultimo se verifico la Ley de Corrientes de Kirchhoff dando como resultado los datos expuestos en la sigueiten tabla.
+
+**TABLA III.** Verificación de la LCK.
+
+![](
+
 **6. CONCLUSIONES**
 
 - Mediante el análisis experimental y algebraico se pudo comprobar la primera y segunda ley de Kirchhoff donde se obtuvo como resultado que la suma de corrientes entrantes es igual a la suma de las corrientes salientes y la suma de voltajes es igual a cero.
