@@ -57,9 +57,9 @@ Ya armado el circuito, se procedio a medir el voltaje, amperaje y sus debidos an
 
 Despúes se procedio analizar las elevacione y caidas de voltaje en cada trayectoria cerrada del circuito verificando así la Ley de Voltajes de Kirchoff teniendo como resultado la siguiente tabla de datos.
 
-**TABLA II.**Verificación de la LVK.
+**TABLA II.** Verificación de la LVK.
 
-
+![](https://github.com/Juan-99/Fundamentos-de-Circuitos-4867-4877/blob/main/img/tabla%202.png)
 
 **6. CONCLUSIONES**
 
