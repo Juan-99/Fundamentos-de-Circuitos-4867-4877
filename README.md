@@ -47,25 +47,13 @@ Circuito construido con la ayuda del simulador tinkercad, muestra el amperaje me
 
 **5. EXPLICACIÓN**
 
-Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada resistencia y hacer analisis algebraico de los mismos con lo cual se construyo la tabla que se presenta a continuación: 
+Una vez ya estudiadas las leyes de Kirchhoff se procedio armar el circuito con la ayuda del simulador tinkercad , para esto se necesito de un protoboard donde se montaron 5 resistencias(1k Ohm, (2) 2.2k Ohm, 3.9k Ohm y 1.8k Ohm), la resistencia R1 se conecta con al fuente de corriente directa, la resistencia R2 y la resistencia R5 dando así la primera trayectoria cerrada, luego se unieron las resistencia R2,R3 y R4 formando la segunda trayectoria dando como resultado un Circuito Resistivo Mixto.
 
-**Tabla I.**  Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+Ya armado el circuito, se procedio a medir el voltaje, amperaje y sus debidos análisis algebraicos , se procedio a contruir la tabla que se presenta a continuación:
 
-|**VARIABLE**|**VALOR CALCULADO**|**VALOR MEDIO**|
-|:-----------:|:-----------:|:--------------:|
-|VR1 (V)|2.5|2.5|
-|IR1 (mA)|2.05|2.05|
-|VR2 (V)|4.23|4.25|
-|IR2 (mA)|1.085|1.09|
-|VR3 (V)|2.123|2.12|
-|IR3 (mA)|0,965|0.965|
-|VR4 (V)|2.123|2.12|
-|IR4 (mA)|0,965|0,965|
-|VR5 (V)|3,69|3.70|
-|IR5 (mA)|2.05|2.05|
+**TABLA I.** Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-**Tabla II.** Verificación de la Ley de Voltajes de Kirchhoff
-
+![](https://www.facebook.com/photo?fbid=3629811253768390&set=a.203430419739841)
 
 **6. CONCLUSIONES**
 
