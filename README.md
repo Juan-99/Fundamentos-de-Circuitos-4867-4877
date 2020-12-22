@@ -73,6 +73,8 @@ Una vez armado el circuito, se procedio a medir el voltaje y amperaje de cada re
 
 - El manejo y el conocimiento de estas leyes son de gran importancia ya que gracias a estas,  circuitos complejos de analizar son fácilmente de resolver  mediantes la reducción de los mismos a circuitos más simples
 
+-Podemos concluir que la resistencia depende mucho en si está en paralelo o en serie puesto que si el circuito está en serie la resistencia aumenta al añadir mayor número de resistencias, lo contrario sucede en un circuito en paralelo donde mientras más resistencias se añada menos resistencia se obtendrá.
+
 **7. BIBLIOGRAFÍA**
 
 McAllister, W. (n.d.). Las leyes de Kirchhoff (artículo) | Khan Academy. Retrieved December 20, 2020, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
